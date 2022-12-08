@@ -10,6 +10,8 @@ Python, R, SQL, MATLAB, C++, C, Stata
 
 From my undergraduate experience, I've also crossed paths with *Verilog, ARM, AVR*
 
+I predominantly use Visual Studio Code and Jupyter notebooks for the majority of my coding assignments involving Python/C++. 
+
 ### Technical Skills
 
 Deep Learning (Pytorch), Data Science (Numpy, Pandas, Scikit-Learn, etc.), Computer Vision and Natural Language Processing
@@ -18,7 +20,7 @@ My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing
 
 Some of my favorite udnergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
 
-Brief encounters with: Computer Organization and Architecture, Multi-armed bandits
+Brief encounters with: Computer Organization and Architecture, Multi-armed bandits, TensorFlow, Keil uVision, 
 <!--
 **Siddharth1101/Siddharth1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
