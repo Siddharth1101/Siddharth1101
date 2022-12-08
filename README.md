@@ -18,7 +18,7 @@ Deep Learning (Pytorch), Data Science (Numpy, Pandas, Scikit-Learn, etc.), Compu
 
 My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing and Computer Vision Lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/).
 
-Some of my favorite udnergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
+Some of my favorite undergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
 
 Brief encounters with: Computer Organization and Architecture, Multi-armed bandits, TensorFlow, Keil uVision, 
 <!--
