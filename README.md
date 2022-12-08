@@ -8,13 +8,13 @@ A passionate problem-solver, I'm highly interested in the confluence of business
 
 Python, R, SQL, MATLAB, C++, C, Stata
 
-From my undergraduate experience, I've also crossed paths with: Verilog, ARM, AVR
+From my undergraduate experience, I've also crossed paths with *Verilog, ARM, AVR*
 
 ### Technical Skills
 
 Deep Learning (Pytorch), Data Science (Numpy, Pandas, Scikit-Learn, etc.), Computer Vision and Natural Language Processing
 
-*My final-year thesis was on*: Lowlight Image Captioning
+My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing and Computer Vision Lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/).
 
 Some of my favorite udnergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
 
