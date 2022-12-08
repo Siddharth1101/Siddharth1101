@@ -2,7 +2,9 @@
 
 Hi! I'm a first-year MBA student at the Yale School of Management pursuing a Management Science concentration. Previously, I completed my Bachelor of technology (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
 
-A passionate problem-solver, I'm highly interested in the confluence of business, economics and technology, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, consulting, product management and strategic transformation.
+A passionate problem-solver, I'm highly interested in the confluence of business, optimization and technology, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, consulting, product management and strategic transformation.
+
+Currently working with an EdTech startup, I've worked in digital transformation, supply chains, strategy and deep learning. 
 
 ### My top programming languages
 
