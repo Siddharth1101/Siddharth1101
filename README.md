@@ -16,7 +16,7 @@ I predominantly use Visual Studio Code and Jupyter notebooks for the majority of
 
 ### Technical Skills
 
-Deep Learning (Pytorch), Data Science (Numpy, Pandas, Scikit-Learn, etc.), Computer Vision and Natural Language Processing
+Deep Learning (Pytorch and occasionally, TensorFlow), Data Science (Numpy, Pandas, Scikit-Learn, etc.), Computer Vision and Natural Language Processing
 
 My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing and Computer Vision Lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/).
 
