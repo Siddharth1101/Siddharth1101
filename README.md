@@ -22,7 +22,7 @@ My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing
 
 Some of my favorite undergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Econometrics, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
 
-Brief encounters with: Computer Organization and Architecture, Multi-armed bandits, TensorFlow, Keil uVision, 
+Additionally, other technical skills: Computer Organization and Architecture, Multi-armed bandits, TensorFlow, WinSCP, Linux, Git
 <!--
 **Siddharth1101/Siddharth1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
