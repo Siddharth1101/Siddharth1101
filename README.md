@@ -18,7 +18,7 @@ I predominantly use Visual Studio Code and Jupyter notebooks for the majority of
 
 Deep Learning (Pytorch and occasionally, TensorFlow), Data Science (Numpy, Pandas, Scikit-Learn, etc.), Computer Vision and Natural Language Processing
 
-My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing and Computer Vision Lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/) guided by [Prof. A.N. Rajagopalan](https://www.ee.iitm.ac.in/ipcvlab/](https://www.ee.iitm.ac.in/raju/).
+My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing and Computer Vision Lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/) guided by [Prof. A.N. Rajagopalan](https://www.ee.iitm.ac.in/raju/).
 
 Some of my favorite undergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Econometrics, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
 
