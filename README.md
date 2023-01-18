@@ -20,9 +20,9 @@ Deep Learning (Pytorch and occasionally, TensorFlow), Data Science (Numpy, Panda
 
 My final-year thesis was on *Lowlight Image Captioning* at the [Image Processing and Computer Vision Lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/) guided by [Prof. A.N. Rajagopalan](https://www.ee.iitm.ac.in/raju/).
 
-Some of my favorite undergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Econometrics, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing
+Some of my favorite undergraduate courses include: Information Theory, Pattern Recognition and Machine Learning, Econometrics, Deep Learning, Natural Language Processing, Estimation Theory, Digital Signal Processing, (Digital) Communication Systems
 
-Additionally, other technical skills: Computer Organization and Architecture, Multi-armed bandits, TensorFlow, WinSCP, Linux, Git
+Additionally, other technical skills: TensorFlow, WinSCP, Computer Organization and Architecture, Multi-armed bandits
 <!--
 **Siddharth1101/Siddharth1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
