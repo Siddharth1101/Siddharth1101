@@ -4,7 +4,7 @@ Hi! I'm a first-year MBA student at the Yale School of Management pursuing a Man
 
 A passionate problem-solver, I'm highly interested in the confluence of business, optimization and technology, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, Strategy and investing.
 
-Currently working with an EdTech startup, I've worked in digital transformation, supply chains, strategy and deep learning. 
+Currently working with a Venture Capital firm, I've worked with an EdTech startup, digital transformation, supply chains, strategy and deep learning. 
 
 ### My top programming languages
 
