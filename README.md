@@ -10,7 +10,7 @@ Currently working as a Technical Product Manager at an AI/Hardware Bay Area star
 
 Python, R, SQL, MATLAB, C++, C, Stata
 
-From my undergraduate experience, I've also crossed paths with *Verilog, ARM, AVR*
+From my undergraduate experience, I've also crossed paths with *Verilog, ARM, AVR* as well as extensive Linux and commandline arguments
 
 I predominantly use Visual Studio Code and Jupyter notebooks for the majority of my coding assignments involving Python/C++. Other applications/OS I frequently use are Git, Linux and MATLAB. 
 
