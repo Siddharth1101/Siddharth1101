@@ -1,10 +1,10 @@
 ## About Me
 
-Hi! I'm a first-year MBA student at the Yale School of Management pursuing a Management Science concentration. Previously, I completed my Bachelor of technology (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
+Hi! I'm an MBA candidate at the Yale School of Management pursuing a Management Science concentration. Previously, I completed my Bachelor of technology (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
 
-A passionate problem-solver, I'm highly interested in the confluence of business, optimization and technology, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, Strategy and investing.
+A passionate problem-solver, I'm highly interested in the confluence of business, deep technology and productization capabilites, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, Strategy and investing.
 
-Currently working with a Venture Capital firm and a prominent investor, I've worked with an EdTech startup, digital transformation, supply chains, strategy and deep learning. 
+Currently working as a Technical Product Manager at an AI/Hardware Bay Area startup and Yale Ventures, I've previously worked with an EdTech startup, in consulting, supply chains, strategy and deep learning. 
 
 ### My top programming languages
 
