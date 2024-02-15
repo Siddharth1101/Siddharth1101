@@ -1,16 +1,16 @@
 ## About Me
 
-Hi! I'm an MBA candidate at the Yale School of Management pursuing a Management Science concentration. Previously, I completed my Bachelor of technology (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
+Hi! I'm a Product Manager at a Bay Area startup working on enterprise SaaS and an MBA candidate at the Yale School of Management. Previously, I was a Product Manager at an AI/hardware startup. I completed my Bachelor's (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
 
-A passionate problem-solver, I'm highly interested in the confluence of business, deep technology and productization capabilites, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, Strategy and investing.
+A passionate problem-solver, I'm highly interested in the confluence of business, deep technology and productization capabilites, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI, product management and finance.
 
-Currently working as a Technical Product Manager at an AI/Hardware Bay Area startup and Yale Ventures, I've previously worked with an EdTech startup, in consulting, supply chains, strategy and deep learning. 
+In the past I've worked with Yale Ventures, an EdTech startup, 180 Degrees Consulting, and a supply chain. 
 
 ### My top programming languages
 
-Python, R, SQL, MATLAB, C++, C, Stata
+Python, R, SQL, MATLAB, C++, C, Stata.
 
-From my undergraduate experience, I've also crossed paths with *Verilog, ARM, AVR* as well as extensive Linux and commandline arguments
+From my undergraduate experience, I've also crossed paths with *Verilog, ARM, AVR* as well as extensive Linux and commandline programming.
 
 I predominantly use Visual Studio Code and Jupyter notebooks for the majority of my coding assignments involving Python/C++. Other applications/OS I frequently use are Git, Linux and MATLAB. 
 
