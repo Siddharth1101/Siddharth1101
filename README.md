@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I'm currently a Venture Capital scout with Connecticut Innovations. Most recently, I was a summer associate at Bain & Company. Before that I was in the Bay Area and worked as a Product Manager working on enterprise SaaS and dealing with cloud AI. Prior to that, I was a Product Manager at an AI/hardware startup. I completed my Bachelor's (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
+Hi! I'm currently an MBA intern in the CEO's office at Connecticut Innovations. Most recently, I was a summer associate at Bain & Company. Before that I was in the Bay Area and worked as a Product Manager working on enterprise SaaS and dealing with cloud AI. Prior to that, I was a Product Manager at an AI/hardware startup. I completed my Bachelor's (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
 
 A passionate problem-solver, I'm highly interested in the confluence of business, deep technology and productization capabilites, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI and product management. 
 
