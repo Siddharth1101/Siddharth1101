@@ -1,10 +1,12 @@
 ## About Me
 
-Hi! I'm currently an MBA intern in the CEO's office at Connecticut Innovations. Most recently, I was a summer associate at Bain & Company. Before that I was in the Bay Area and worked as a Product Manager working on enterprise SaaS and dealing with cloud AI. Prior to that, I was a Product Manager at an AI/hardware startup. I completed my Bachelor's (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
+Hi! I'm currently a Product Management Engineer in the Enterprise Networking group at Cisco. I primarily focus on AI in the Cloud Connectivity team.
 
-A passionate problem-solver, I'm highly interested in the confluence of business, deep technology and productization capabilites, and their impact on society. What kind of business strategies can firms adopt to sustainably grow and arrive at human-like decision making at scale is a question that captivates me. I'm also enthusiastic about interdisciplinary roles at the intersection of AI and product management. 
+Most recently, I was an MBA intern in the CEO's office at Connecticut Innovations. Before that, I was a summer associate at Bain & Company. And even before that, I was in the Bay Area and worked as a Product Manager at 2 startups: in customer success SaaS, and AI/hardware. I completed my Bachelor's (Honors) in Electrical Engineering with a minor in Artificial Intelligence/Machine Learning from IIT Madras, India. 
 
-Other organizations I've had in the past include Z5 Capital, Yale Ventures, an EdTech startup, 180 Degrees Consulting, and a supply chain. 
+A passionate problem-solver, I'm highly interested in the confluence of business, deep tech, investing and its positive impact on society. 
+
+Other organizations I've had roles in the past include Z5 Capital, Yale Ventures, 180 Degrees Consulting, ITC Limited, and Embibe. 
 
 ### My top programming languages
 
